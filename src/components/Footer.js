@@ -25,10 +25,10 @@ const Footer = () => {
           <h4>About Me</h4>
           <p>This is me Ishvini Anuraj.Undergraduate from the IT Faculty of the University of Moratuwa, Sri Lanka.<br />To me technology used wisely is a catalyst to magically transforming the way we live.</p>
           <div className="social">
-            <a href="https://www.facebook.com/anu.anuraj.71" target="_blank"><FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
-            <a href="https://www.linkedin.com/in/ishvini-anuraj-b51180207" target="_blank"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
-            <a href="https://github.com/Ishvini29" target="_blank"><FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
-            <a href="https://medium.com/@ishvini2000" target="_blank"><FaMedium size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+            <a href="https://www.facebook.com/anu.anuraj.71" target="_blank" rel="noreferrer"><FaFacebook size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+            <a href="https://www.linkedin.com/in/ishvini-anuraj-b51180207" target="_blank" rel="noreferrer"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+            <a href="https://github.com/Ishvini29" target="_blank" rel="noreferrer"><FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+            <a href="https://medium.com/@ishvini2000" target="_blank" rel="noreferrer"><FaMedium size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
 
           </div>
         </div>
