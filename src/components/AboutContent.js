@@ -1,9 +1,9 @@
 import "./AboutContent.css";
 import React from 'react';
 import { Link } from "react-router-dom";
-import React1 from "../assets/React1.png";
-import React2 from "../assets/React2.jpg";
-import React3 from "../assets/React3.JPG";
+// import React1 from "../assets/React1.png";
+// import React2 from "../assets/React2.jpg";
+// import React3 from "../assets/React3.JPG";
 // import React4 from "../assets/React4.jpg";
 import React6 from "../assets/React6.png";
 import cgen from "../assets/cgen.png";
