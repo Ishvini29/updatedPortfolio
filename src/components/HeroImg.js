@@ -4,7 +4,7 @@ import React from 'react'
 
 import IntroImg from "../assets/bg.jpg"
 import { Link } from "react-router-dom";
-import Glasses from "../assets/glassesimoji.png";
+// import Glasses from "../assets/glassesimoji.png";
 
 const HeroImg = () => {
   return (
