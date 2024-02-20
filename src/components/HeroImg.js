@@ -15,9 +15,9 @@ const HeroImg = () => {
       <div className="content">
 
         <div className="ani">
-          <marquee behavior="alternate" direction="left">
+          {/* <marquee behavior="alternate" direction="left">
             <img className="car" src={Glasses} alt="IntroImg" />
-          </marquee>
+          </marquee> */}
 
         </div>
         <p>HI,I'M AN UNDERGRADUATE.</p>
